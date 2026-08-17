@@ -1,5 +1,4 @@
-import pytest
-
+import pytest 
 from app.frete.frete import classificar_frete
 
 @pytest.mark.parametrize(
